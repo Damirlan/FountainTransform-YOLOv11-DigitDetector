@@ -1,1 +1,6 @@
-/venv
+\venv
+\runs\detect\brake_shoe_numbers2\weights
+\models\
+
+data_sl.zip
+yolo11s.pt
