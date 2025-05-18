@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['051', '054', '055', '056', '057', '068', '069', '454', '455', '457', '56']
+
+roboflow:
+  workspace: damirlan
+  project: pic_numbers
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/damirlan/pic_numbers/dataset/1
